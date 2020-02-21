@@ -1,4 +1,5 @@
 In the client folder $teve4_SAPI
+http://localhost:1337/graphql
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
